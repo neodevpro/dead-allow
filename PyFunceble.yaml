@@ -67,7 +67,7 @@ no_files: True
 # Enable / Disable the usage of the SPECIAL rule(s).
 no_special: True
 # Enable / Disable the usage of whois in the tests.
-no_whois: True
+no_whois: False
 # Enable / Disable the generation of the plain list of element sorted by statuses.
 plain_list_domain: False
 # Enable / Disable the printing of dots in the output.
