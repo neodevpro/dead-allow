@@ -1,6 +1,5 @@
-from PyFunceble import load_config
+
 from PyFunceble import test as PyFunceble
-load_config(generate_directory_structure=False)
 
 readfile = open("allow", "r")
 DOMAINS = []
