@@ -1,4 +1,3 @@
-
 from PyFunceble import test as PyFunceble
 
 readfile = open("allow", "r")
