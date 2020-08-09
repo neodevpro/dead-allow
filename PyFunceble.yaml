@@ -51,7 +51,7 @@ inactive_database: False
 # Enable / Disable the output of every information of screen.
 less: True
 # Enable / Disable the test in local network.
-local: False
+local: True
 # Enable / Disable the output of every logs.
 logs: True
 # Set the maximal number of simultaneous processes to run.
