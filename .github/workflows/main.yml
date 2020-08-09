@@ -14,6 +14,8 @@ jobs:
     - name: Ready to Go
       run: |
         mkdir /home/runner/.config/PyFunceble
+        pip3 install setuptools
+        pip3 install wheel
         pip3 install pyfunceble-dev
         rm -rf deadallow
         wget https://raw.githubusercontent.com/neodevpro/neodevhost/master/allow
