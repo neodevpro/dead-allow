@@ -14,7 +14,7 @@ jobs:
     - name: Ready to Go
       run: |
         mkdir /home/runner/.config/PyFunceble
-        sudo apt install -y python-dev python-pip libxml2-dev libxslt1-dev zlib1g-dev libffi-dev libssl-dev python3-dev
+        sudo apt install -y libxml2-dev libxslt1-dev zlib1g-dev libffi-dev libssl-dev python3-dev
         pip3 install --user setuptools
         pip3 install --user wheel
         pip3 install pyfunceble-dev
