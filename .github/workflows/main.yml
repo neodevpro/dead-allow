@@ -13,7 +13,7 @@ jobs:
     - uses: actions/checkout@v2
     - name: Ready to Go
       run: |
-        pip3 install PyFunceble
+        pip3 --user install PyFunceble
         rm -rf deadallow
         wget https://raw.githubusercontent.com/neodevpro/neodevhost/master/allow
         python3 checkallow.py
