@@ -15,8 +15,8 @@ jobs:
       run: |
         pip3 install --user setuptools
         pip3 install --user wheel
-        
-        pip3 install --user PyFunceble
+        pip3 install --user git+https://github.com/funilrys/PyFunceble.git@master#egg=PyFunceble
+
         rm -rf deadallow
         wget https://raw.githubusercontent.com/neodevpro/neodevhost/master/allow
         python3 checkallow.py
