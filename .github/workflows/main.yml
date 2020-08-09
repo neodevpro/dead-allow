@@ -19,6 +19,7 @@ jobs:
         pip3 install pyfunceble-dev
         rm -rf deadallow
         wget https://raw.githubusercontent.com/neodevpro/neodevhost/master/allow
+        sudo mv ./.PyFunceble.yaml /home/runner/.config/PyFunceble/
         python3 checkallow.py
         rm -rf allow
 
