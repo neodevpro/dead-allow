@@ -63,9 +63,9 @@ multiprocess: True
 # Set the merging mode. Available: end, live
 multiprocess_merging_mode: end
 # Enable / Disable the generation of any file(s).
-no_files: False
+no_files: True
 # Enable / Disable the usage of the SPECIAL rule(s).
-no_special: False
+no_special: True
 # Enable / Disable the usage of whois in the tests.
 no_whois: True
 # Enable / Disable the generation of the plain list of element sorted by statuses.
