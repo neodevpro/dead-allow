@@ -14,6 +14,8 @@ jobs:
     - name: Ready to Go
       run: |
         pip3 install --user setuptools
+        pip3 install --user wheel
+        
         pip3 install --user PyFunceble
         rm -rf deadallow
         wget https://raw.githubusercontent.com/neodevpro/neodevhost/master/allow
