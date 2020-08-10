@@ -26,14 +26,11 @@ jobs:
         python3 checkallow.py
         rm -rf allow
 
-    - name: push
-      uses: github-actions-x/commit@v2.6
+    - uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
-        push-branch: 'master'
-        commit-message: 'Add Deadhost'
-        force-add: 'true'
-        files: deadallow
-        name: FusionPlmH
-        email: leemenhin@gmail.com
-        rebase: 'true'
+           commit_message: Auto Update
+           branch: master
+           commit_options: '--no-verify --signoff'
+           repository: .
+           commit_user_name: FusionPlmH
+           commit_user_email: leemenhin@gmail.com
