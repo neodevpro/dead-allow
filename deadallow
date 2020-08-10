@@ -30,7 +30,7 @@ config5.update.baofeng.com
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
 creative.ak.fbcdn.net
-d.g.mi.com
+cwtv-mrss-akamai.cwtv.com
 d2c87l0yth4zbw.cloudfront.net
 dashboard.plex.tv
 data.mistat.xiaomi.com:443
@@ -40,13 +40,15 @@ dhfs.oppomobile.comoppo
 directory.services.live.com
 dl-client.dropbox.com
 dp.msnmessenger.akadns.com
-drc-centraloffice.com
 dropbox.comdl.dropbox.com
+eventbus.learnosity.com
+events.gfe.nvidia.com
 folderkeeper.mosyle.com
-follett.com
-geo3.ggpht.com
+gap.com
+gazeta.pl
+gdmf.apple.com
 gou.wps.cn
-i8.chinanews.com
+gspe35-ssl.ls.apple.com
 imgbbisafreeserviceforuploadingandsharingpictures.
 lbsnavi.cdn.bcebos.com:443
 localhost
@@ -59,6 +61,7 @@ mix1065fm.cbslocal.com
 msg.yahoo.com
 nccp.netflix.com
 newapi.shouji.baofeng.com
+oload.cloud
 pand.ctmail.com
 pi.hole
 placeholdit.imgix.net
@@ -75,7 +78,6 @@ s3.symcb.com
 s4.symcb.com
 s5.symcb.com
 sa-blacklist.stearns.org
-securemecca.com
 spapps.spotify.edgekey.net
 ssl.gonoodle.com
 static.ak.facebook.com
