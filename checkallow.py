@@ -10,12 +10,11 @@ readfile.close()
 
 def print_result(subject, status):
 
-    if status == "ACTIVE":
+    if status != "ACTIVE":
         print(f"{domain} is {status}")
-    else:
-        file = open('deadallow', 'a')
         file.writelines(f"{domain}\n")
-        file.close()        
 
+file = open('deadallow', 'a')
 for domain in DOMAINS:
     print_result(domain, PyFunceble (domain))
+file.close()  
