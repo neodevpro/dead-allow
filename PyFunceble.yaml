@@ -58,7 +58,7 @@ local: True
 # Enable / Disable the output of every logs.
 logs: True
 # Set the maximal number of simultaneous processes to run.
-maximal_processes: 8
+maximal_processes: 16
 # Enable / Disable the URL/domain mining.
 mining: False
 # Enable / Disable the usage of multiple processes.
