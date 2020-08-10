@@ -1,4 +1,6 @@
 from PyFunceble import test as PyFunceble
+import urllib3
+urllib3.disable_warnings()
 
 readfile = open("allow", "r")
 DOMAINS = []
