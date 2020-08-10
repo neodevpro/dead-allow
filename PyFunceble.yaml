@@ -29,7 +29,9 @@ dns_lookup_over_tcp: False
 #       dns_server:
 #         - "8.8.8.8" # First DNS server.
 #         - "8.4.4.8" # Second DNS server.
-dns_server: null
+dns_server: 
+         - "8.8.8.8"
+         - "208.67.222.222"
 # Set the element to filter.
 filter: ""
 # Enable / disable the generation of complements.
