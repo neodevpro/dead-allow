@@ -30,6 +30,7 @@ config5.update.baofeng.com
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
 creative.ak.fbcdn.net
+cwtv-prod-elb.digitalsmiths.net
 d2c87l0yth4zbw.cloudfront.net
 dashboard.plex.tv
 data.mistat.xiaomi.com:443
@@ -41,16 +42,12 @@ dl-client.dropbox.com
 dp.msnmessenger.akadns.com
 drc-centraloffice.com
 dropbox.comdl.dropbox.com
-eonline.com
-espn.com
-eventbus.learnosity.com
 events.gfe.nvidia.com
+events.learnosity.com
 folderkeeper.mosyle.com
-gdmf.apple.com
-geo-prod.do.dsp.mp.microsoft.com
+gfwsl.geforce.com
 gou.wps.cn
-gweb-gettingstartedguide.appspot.com
-hbogo.com
+heavy.com
 imgbbisafreeserviceforuploadingandsharingpictures.
 lbsnavi.cdn.bcebos.com:443
 localhost
@@ -83,7 +80,6 @@ sa-blacklist.stearns.org
 spapps.spotify.edgekey.net
 ssl.gonoodle.com
 static.ak.facebook.com
-t1.g.mi.com/thumbnail/webp/w156q90/Wali/1ac20257c6d4e45750acb3e2ed937d2ba85f8488b
 talks.l.google.com
 teredo.ipv6.microsoft.com
 treexml.baofeng.net
