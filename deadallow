@@ -16,8 +16,8 @@ a.mini.eastday.com
 api.xk.miui.com
 api.zhuashouji.com
 apps.skype.com
+assistant.pandora.xiaomi.com/config
 basejumper.apple.com
-bole.shangshufang.ksosoft.com
 book.rdtuijian.com
 cdn.abc.eamobile.com
 cdn.cloudflare.net
@@ -35,7 +35,6 @@ cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
 creative.ak.fbcdn.net
 d.g.mi.com
-d.ifengimg.com
 d2c87l0yth4zbw.cloudfront.net
 dashboard.plex.tv
 data.mistat.xiaomi.com:443
@@ -43,13 +42,10 @@ de.imgbb.comtousetheminanforum.
 def-vef.xboxlive.com
 dhfs.oppomobile.comoppo
 dictionary.cambridge.org
-digitaltrends.com
 directory.services.live.com
 dl-client.dropbox.com
 dp.msnmessenger.akadns.com
 dropbox.comdl.dropbox.com
-drupalstaging.provexam.com
-external-lhr10-1.xx.fbcdn.net
 folderkeeper.mosyle.com
 gou.wps.cn
 imgbbisafreeserviceforuploadingandsharingpictures.
@@ -59,6 +55,7 @@ m.gitee.com
 m.weeklyad.target.com
 m.zhuashouji.com
 mdeapp2.mdek12.org
+mini.eastday.com
 miuiboot.tracking.miui.com
 mix1065fm.cbslocal.com
 msg.yahoo.com
@@ -66,10 +63,9 @@ nccp.netflix.com
 newapi.shouji.baofeng.com
 oload.pw
 pand.ctmail.com
+pc.uf.ksosoft.com
 pi.hole
-pixiu.shangshufang.ksosoft.com
 placeholdit.imgix.net
-play.googleapis.com
 play.spotify.edgekey.net
 pricelist.skype.com
 proxy.plex.tv
@@ -86,7 +82,6 @@ sa-blacklist.stearns.org
 spapps.spotify.edgekey.net
 ssl.gonoodle.com
 static.ak.facebook.com
-t1.g.mi.com/thumbnail/webp/w156q90/Wali/1ac20257c6d4e45750acb3e2ed937d2ba85f8488b
 talks.l.google.com
 teredo.ipv6.microsoft.com
 treexml.baofeng.net
