@@ -2,9 +2,6 @@
 
 name: CI
 on:
-  push:
-    branches:    
-      - master
   schedule:
     - cron:  "05 * * * *"
 jobs:
@@ -24,7 +21,8 @@ jobs:
         python3 checkallow.py
         rm -rf allow
 
-    - uses: stefanzweifel/git-auto-commit-action@v4
+    - name: Git Auto Commit
+      uses: stefanzweifel/git-auto-commit-action@v4.4.1
       with:
            commit_message: Auto Update
            branch: master
