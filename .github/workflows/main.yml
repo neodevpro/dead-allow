@@ -15,7 +15,7 @@ jobs:
         mkdir /home/runner/.config/PyFunceble
         pip3 install setuptools
         pip3 install wheel
-        pip3 install pyfunceble-dev
+        pip3 install pyfunceble
         rm -rf deadallow
         wget --no-check-certificate -t 1 -T 10 -O allow https://raw.githubusercontent.com/neodevpro/neodevhost/master/testallow
         cp PyFunceble.yaml /home/runner/.config/PyFunceble/.PyFunceble.yaml
