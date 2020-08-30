@@ -16,8 +16,8 @@ a.mini.eastday.com
 api.xk.miui.com
 api.zhuashouji.com
 apps.skype.com
+assistant.pandora.xiaomi.com/config
 basejumper.apple.com
-bole.shangshufang.ksosoft.com
 book.rdtuijian.com
 cdn.abc.eamobile.com
 cdn.cloudflare.net
@@ -28,6 +28,7 @@ channel.facebook.com
 chat.facebook.com
 cloudservice28.kingsoft-office-service.com
 commondatastorage.googleapis.com
+community.spiceworks.com
 confib.ifmo.ru
 config5.update.baofeng.com
 cpms.spop10.ams.plex.bz
@@ -43,17 +44,12 @@ def-vef.xboxlive.com
 dhfs.oppomobile.comoppo
 di.com.pl
 dictionary.cambridge.org
-digitaltrends.com
 directory.services.live.com
 dl-client.dropbox.com
 dp.msnmessenger.akadns.com
-drive.google.com
-dropbox.com
+drift.com
 dropbox.comdl.dropbox.com
-example.org
-express.co.uk
 folderkeeper.mosyle.com
-github.com/notracking/hosts-blocklists/issues/75
 gou.wps.cn
 imgbbisafreeserviceforuploadingandsharingpictures.
 lbsnavi.cdn.bcebos.com:443
@@ -72,7 +68,6 @@ pand.ctmail.com
 pi.hole
 placeholdit.imgix.net
 play.spotify.edgekey.net
-player.pl
 pricelist.skype.com
 proxy.plex.tv
 proxy02.pop.ord.plex.bz
@@ -85,8 +80,6 @@ s3.symcb.com
 s4.symcb.com
 s5.symcb.com
 sa-blacklist.stearns.org
-secure.netflix.com
-secureir.ebaystatic.com
 spapps.spotify.edgekey.net
 ssl.gonoodle.com
 static.ak.facebook.com
@@ -107,4 +100,3 @@ windowsupdate.nsatc.net
 www.gongzhushe.com
 www.gugeys.com
 xboxexperiencesprod.experimentation.xboxlive.com
-yunfile.com
