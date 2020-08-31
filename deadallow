@@ -26,7 +26,6 @@ cdn.staticfile.org/jquery/2.1.4/jquery.min.jsid97.com
 channel.facebook.com
 chat.facebook.com
 cloudservice28.kingsoft-office-service.com
-config5.update.baofeng.com
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
 creative.ak.fbcdn.net
@@ -38,12 +37,15 @@ def-vef.xboxlive.com
 dhfs.oppomobile.comoppo
 directory.services.live.com
 dl-client.dropbox.com
+download.sonarr.tv
 dp.msnmessenger.akadns.com
 dropbox.comdl.dropbox.com
-embed.spotify.com
-en.bab.la
-encrypted-tbn0.gstatic.com
+eonline.com
+espn.com
 folderkeeper.mosyle.com
+game.quizizz.com
+gap.com
+gawker.com
 gou.wps.cn
 imgbbisafreeserviceforuploadingandsharingpictures.
 lbsnavi.cdn.bcebos.com:443
@@ -66,6 +68,7 @@ pricelist.skype.com
 proxy.plex.tv
 proxy02.pop.ord.plex.bz
 remotedatasecurity.net
+resolver.gslb.mi-idc.com
 s-static.ak.facebook.com
 s.gateway.messenger.live.com
 s.wasu.cncssjs
@@ -80,7 +83,6 @@ static.ak.facebook.com
 talks.l.google.com
 teredo.ipv6.microsoft.com
 treexml.baofeng.net
-treezip.baofeng.net
 tw13b093.sandai.net
 ui.skype.com
 union.dbba.cn
