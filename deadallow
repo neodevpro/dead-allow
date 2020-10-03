@@ -20,8 +20,10 @@ apps.skype.com
 assistant.pandora.xiaomi.com/config
 b.bst.126.net/common/face60.png
 basejumper.apple.com
+bole.shangshufang.ksosoft.com
 book.rdtuijian.com
 cdn.abc.eamobile.com
+cdn.ark.qq.com
 cdn.cloudflare.net
 cdn.jscloudflare.com
 cdn.staticfile.org/jquery/1.7.2/jquery.min.js
@@ -29,7 +31,6 @@ cdn.staticfile.org/jquery/2.1.4/jquery.min.jsid97.com
 channel.facebook.com
 chat.facebook.com
 cloudservice28.kingsoft-office-service.com
-config5.update.baofeng.com
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
 creative.ak.fbcdn.net
@@ -42,13 +43,13 @@ def-vef.xboxlive.com
 dhfs.oppomobile.comoppo
 directory.services.live.com
 dl-client.dropbox.com
-docerad.wps.cn
 dp.msnmessenger.akadns.com
 dropbox.comdl.dropbox.com
 e.crashlytics.com
 folderkeeper.mosyle.com
 gou.wps.cn
 i8.chinanews.com/2013/home/images/logo.jpg
+image.uczzd.cn/761945378583441460.jpg?id=0&width=212&height=120tudou
 imgbbisafreeserviceforuploadingandsharingpictures.
 lbsnavi.cdn.bcebos.com:443
 m.gitee.com
@@ -61,9 +62,7 @@ msg.yahoo.com
 nccp.netflix.com
 oload.pw
 pand.ctmail.com
-pc.uf.ksosoft.com
 pi.hole
-pixiu.shangshufang.ksosoft.com
 placeholdit.imgix.net
 play.spotify.edgekey.net
 pricelist.skype.com
@@ -80,7 +79,6 @@ s4.symcb.com
 s5.symcb.com
 sa-blacklist.stearns.org
 sdkinit.taobao.com/init.htm
-sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 spapps.spotify.edgekey.net
 ssl.gonoodle.com
 sta.ganji.com/public/css/ued/vip/vip.cmb.__1468520149__.css
@@ -88,8 +86,6 @@ static.ak.facebook.com
 t1.g.mi.com/thumbnail/webp/w156q90/Wali/1ac20257c6d4e45750acb3e2ed937d2ba85f8488b
 talks.l.google.com
 teredo.ipv6.microsoft.com
-treexml.baofeng.net
-treezip.baofeng.net
 tw13b093.sandai.net
 ui.skype.com
 union.dbba.cn
@@ -103,4 +99,3 @@ windowsupdate.nsatc.net
 www.gongzhushe.com
 www.gugeys.com
 xboxexperiencesprod.experimentation.xboxlive.com
-zz.m.sohu.com
