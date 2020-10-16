@@ -8,8 +8,6 @@ app.migc.g.mi.com/migcoss/coss.htm
 apps.skype.com
 assistant.pandora.xiaomi.com/config
 b.bst.126.net/common/face60.png
-bannera.kingsoft-office-service.com
-bole.shangshufang.ksosoft.com
 book.rdtuijian.com
 cdn.abc.eamobile.com
 cdn.ark.qq.com
@@ -19,6 +17,8 @@ cdn.staticfile.org/jquery/1.7.2/jquery.min.js
 cdn.staticfile.org/jquery/2.1.4/jquery.min.jsid97.com
 channel.facebook.com
 chat.facebook.com
+cloudservice15.kingsoft-office-service.com
+cloudservice22.kingsoft-office-service.com
 cloudservice28.kingsoft-office-service.com
 config5.update.baofeng.com
 cpms.spop10.ams.plex.bz
@@ -36,7 +36,10 @@ dp.msnmessenger.akadns.com
 dropbox.comdl.dropbox.com
 gou.wps.cn
 i8.chinanews.com/2013/home/images/logo.jpg
+ic.ksosoft.com
+image.uczzd.cn/761945378583441460.jpg?id=0&width=212&height=120tudou
 imgbbisafreeserviceforuploadingandsharingpictures.
+ip.cms.sohu.com
 lbsnavi.cdn.bcebos.com:443
 m.gitee.com
 m.weeklyad.target.com
@@ -48,14 +51,12 @@ msg.yahoo.com
 nccp.netflix.com
 oload.pw
 pi.hole
-pixiu.shangshufang.ksosoft.com
 placeholdit.imgix.net
 play.spotify.edgekey.net
 pricelist.skype.com
 proxy.plex.tv
 proxy02.pop.ord.plex.bz
 puui.qpic.cn/
-rating6.kingsoft-office-service.com
 resolver.gslb.mi-idc.com
 s-static.ak.facebook.com
 s.gateway.messenger.live.com
@@ -66,7 +67,6 @@ s4.symcb.com
 s5.symcb.com
 sa-blacklist.stearns.org
 sdkinit.taobao.com/init.htm
-sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 spapps.spotify.edgekey.net
 sta.ganji.com/public/css/ued/vip/vip.cmb.__1468520149__.css
 static.ak.facebook.com
@@ -78,6 +78,7 @@ treezip.baofeng.net
 tw13b093.sandai.net
 ui.skype.com
 union.dbba.cn
+union.video.qq.com
 upgrade.scdn.com
 vr-ov-crl.thawte.com
 vupload2.t.facebook.com
@@ -85,7 +86,6 @@ wd.geilicdn.comweidianimage
 webcam.yahoo.com
 widgets.dlvr.it
 windowsupdate.nsatc.net
-wpsweb-dc.wps.cn
 www.gongzhushe.com
 www.gugeys.com
 xboxexperiencesprod.experimentation.xboxlive.com
