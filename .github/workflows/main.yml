@@ -16,7 +16,7 @@ jobs:
         pip3 install wheel
         pip3 install pyfunceble
         rm -rf deadallow
-        wget --no-check-certificate -t 1 -T 10 -O allow https://raw.githubusercontent.com/neodevpro/neodevhost/master/allow
+        wget --no-check-certificate -t 1 -T 10 -O allow https://raw.githubusercontent.com/neodevpro/neodevhost/master/checkallow
         cp PyFunceble.yaml /home/runner/.config/PyFunceble/.PyFunceble.yaml
         python3 checkallow.py
         rm -rf allow
