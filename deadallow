@@ -17,6 +17,7 @@ cdn.staticfile.org/jquery/1.7.2/jquery.min.js
 cdn.staticfile.org/jquery/2.1.4/jquery.min.jsid97.com
 channel.facebook.com
 chat.facebook.com
+cloudservice19.kingsoft-office-service.com
 cloudservice28.kingsoft-office-service.com
 config5.update.baofeng.com
 corp.sts.microsoft.com
@@ -46,9 +47,8 @@ external-lhr9-1.xx.fbcdn.net
 forum.synology.com
 gou.wps.cn
 i8.chinanews.com/2013/home/images/logo.jpg
-images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg
+ic.ksosoft.com
 imgbbisafreeserviceforuploadingandsharingpictures.
-jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 lbsnavi.cdn.bcebos.com:443
 m.weeklyad.target.com
 m.zhuashouji.com
@@ -57,8 +57,6 @@ miuiboot.tracking.miui.com
 mix1065fm.cbslocal.com
 msg.yahoo.com
 nccp.netflix.com
-news.docer.com
-pc.uf.ksosoft.com
 pi.hole
 placeholdit.imgix.net
 play.spotify.edgekey.net
@@ -77,6 +75,7 @@ s5.symcb.com
 sa-blacklist.stearns.org
 scontent-lhr3-1.xx.fbcdn.net
 sdkinit.taobao.com/init.htm
+sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 spapps.spotify.edgekey.net
 sta.ganji.com/public/css/ued/vip/vip.cmb.__1468520149__.css
 static.ak.facebook.com
