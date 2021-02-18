@@ -8,7 +8,9 @@ app.migc.g.mi.com/migcoss/coss.htm
 apps.skype.com
 assistant.pandora.xiaomi.com/config
 b.bst.126.net/common/face60.png
+bannera.kingsoft-office-service.com
 book.rdtuijian.com
+captcha.360.cn
 cdn.abc.eamobile.com
 cdn.cloudflare.net
 cdn.jscloudflare.com
@@ -16,8 +18,6 @@ cdn.staticfile.org/jquery/1.7.2/jquery.min.js
 cdn.staticfile.org/jquery/2.1.4/jquery.min.jsid97.com
 channel.facebook.com
 chat.facebook.com
-cloudservice15.kingsoft-office-service.com
-cloudservice19.kingsoft-office-service.com
 cloudservice28.kingsoft-office-service.com
 config5.update.baofeng.com
 corp.sts.microsoft.com
@@ -32,6 +32,7 @@ de.imgbb.comtousetheminanforum.
 def-vef.xboxlive.com
 dhfs.oppomobile.comoppo
 dl-client.dropbox.com
+dlvr.it
 dp.msnmessenger.akadns.com
 dropbox.comdl.dropbox.com
 external-lhr0-1.xx.fbcdn.net
@@ -56,10 +57,9 @@ miuiboot.tracking.miui.com
 mix1065fm.cbslocal.com
 msg.yahoo.com
 nccp.netflix.com
-nflximg.net
+newapi.shouji.baofeng.com
 pc.uf.ksosoft.com
 pi.hole
-pixiu.shangshufang.ksosoft.com
 placeholdit.imgix.net
 play.spotify.edgekey.net
 pricelist.skype.com
@@ -84,7 +84,6 @@ t1.g.mi.com/thumbnail/webp/w156q90/Wali/1ac20257c6d4e45750acb3e2ed937d2ba85f8488
 talks.l.google.com
 teredo.ipv6.microsoft.com
 treexml.baofeng.net
-treezip.baofeng.net
 tw13b093.sandai.net
 ui.skype.com
 union.dbba.cn
@@ -94,6 +93,7 @@ vupload2.t.facebook.com
 wd.geilicdn.comweidianimage
 webcam.yahoo.com
 widgets.dlvr.it
+wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 windowsupdate.nsatc.net
 www.gongzhushe.com
 www.gugeys.com
