@@ -5,10 +5,11 @@ a.mini.eastday.com
 api.xk.miui.com
 api.zhuashouji.com
 app.migc.g.mi.com/migcoss/coss.htm
+app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 apps.skype.com
 assistant.pandora.xiaomi.com/config
 b.bst.126.net/common/face60.png
-bole.shangshufang.ksosoft.com
+bannera.kingsoft-office-service.com
 book.rdtuijian.com
 cdn.abc.eamobile.com
 cdn.cloudflare.net
@@ -47,6 +48,7 @@ forum.synology.com
 gou.wps.cn
 i8.chinanews.com/2013/home/images/logo.jpg
 ic.ksosoft.com
+images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg
 imgbbisafreeserviceforuploadingandsharingpictures.
 jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 lbsnavi.cdn.bcebos.com:443
@@ -58,6 +60,8 @@ miuiboot.tracking.miui.com
 mix1065fm.cbslocal.com
 msg.yahoo.com
 nccp.netflix.com
+news.docer.com
+pc.uf.ksosoft.com
 pi.hole
 placeholdit.imgix.net
 play.spotify.edgekey.net
@@ -76,6 +80,7 @@ s5.symcb.com
 sa-blacklist.stearns.org
 scontent-lhr3-1.xx.fbcdn.net
 sdkinit.taobao.com/init.htm
+sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 spapps.spotify.edgekey.net
 sta.ganji.com/public/css/ued/vip/vip.cmb.__1468520149__.css
 static.ak.facebook.com
