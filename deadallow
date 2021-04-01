@@ -8,7 +8,7 @@ app.migc.g.mi.com/migcoss/coss.htm
 apps.skype.com
 assistant.pandora.xiaomi.com/config
 b.bst.126.net/common/face60.png
-bannera.kingsoft-office-service.com
+bing.ie
 book.rdtuijian.com
 cdn.abc.eamobile.com
 cdn.cloudflare.net
@@ -17,8 +17,11 @@ cdn.staticfile.org/jquery/1.7.2/jquery.min.js
 cdn.staticfile.org/jquery/2.1.4/jquery.min.jsid97.com
 channel.facebook.com
 chat.facebook.com
+choice.microsoft.com
+cloudservice19.kingsoft-office-service.com
 cloudservice28.kingsoft-office-service.com
 config5.update.baofeng.com
+continuum.dds.microsoft.com
 corp.sts.microsoft.com
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
@@ -29,6 +32,7 @@ data.mistat.xiaomi.com/mistats/v2
 data.mistat.xiaomi.com:443
 de.imgbb.comtousetheminanforum.
 def-vef.xboxlive.com
+device.auth.xboxlive.com
 dhfs.oppomobile.comoppo
 dl-client.dropbox.com
 dp.msnmessenger.akadns.com
@@ -45,12 +49,19 @@ external-lhr7-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
 forum.synology.com
 gou.wps.cn
+help.ui.xboxlive.com
+i1.services.social.microsoft.com
 i8.chinanews.com/2013/home/images/logo.jpg
 ic.ksosoft.com
 imgbbisafreeserviceforuploadingandsharingpictures.
 lbsnavi.cdn.bcebos.com:443
+licensing.xboxlive.com
+luyou.360.cn
+m.hotmail.com
 m.weeklyad.target.com
 m.zhuashouji.com
+mediamarkt.ie
+messenger.hotmail.com
 meta-db-worker02.pop.ric.plex.bz
 meta.plex.bz
 miuiboot.tracking.miui.com
@@ -58,6 +69,7 @@ mix1065fm.cbslocal.com
 msg.yahoo.com
 nccp.netflix.com
 newapi.shouji.baofeng.com
+notify.xboxlive.com
 pi.hole
 pixiu.shangshufang.ksosoft.com
 placeholdit.imgix.net
@@ -66,7 +78,9 @@ pricelist.skype.com
 proxy.plex.tv
 proxy02.pop.ord.plex.bz
 puui.qpic.cn/
+rating6.kingsoft-office-service.com
 resolver.gslb.mi-idc.com
+rsi.hotmail.com
 s-static.ak.facebook.com
 s.gateway.messenger.live.com
 s.wasu.cncssjs
@@ -81,6 +95,7 @@ spapps.spotify.edgekey.net
 sta.ganji.com/public/css/ued/vip/vip.cmb.__1468520149__.css
 staging.plex.tv
 static.ak.facebook.com
+statsfe1.ws.microsoft.com
 t1.g.mi.com/thumbnail/webp/w156q90/Wali/1ac20257c6d4e45750acb3e2ed937d2ba85f8488b
 talks.l.google.com
 teredo.ipv6.microsoft.com
