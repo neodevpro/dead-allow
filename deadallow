@@ -8,6 +8,7 @@ app.migc.g.mi.com/migcoss/coss.htm
 apps.skype.com
 assistant.pandora.xiaomi.com/config
 b.bst.126.net/common/face60.png
+blocklist.kowabit.de
 book.rdtuijian.com
 cdn.abc.eamobile.com
 cdn.cloudflare.net
@@ -17,6 +18,7 @@ cdn.staticfile.org/jquery/2.1.4/jquery.min.jsid97.com
 cdn.unpkg.com
 channel.facebook.com
 chat.facebook.com
+cloudservice22.kingsoft-office-service.com
 cloudservice28.kingsoft-office-service.com
 config5.update.baofeng.com
 corp.sts.microsoft.com
@@ -51,16 +53,13 @@ imgbbisafreeserviceforuploadingandsharingpictures.
 lbsnavi.cdn.bcebos.com:443
 m.weeklyad.target.com
 m.zhuashouji.com
-mediamarkt.ie
 meta-db-worker02.pop.ric.plex.bz
 meta.plex.bz
 miuiboot.tracking.miui.com
 mix1065fm.cbslocal.com
 msg.yahoo.com
 nccp.netflix.com
-newapi.shouji.baofeng.com
 pc.uf.ksosoft.com
-pcbrowser.dd.qq.com
 pi.hole
 pixiu.shangshufang.ksosoft.com
 placeholdit.imgix.net
@@ -93,6 +92,7 @@ treezip.baofeng.net
 tw13b093.sandai.net
 ui.skype.com
 union.dbba.cn
+union.video.qq.com
 upgrade.scdn.com
 vr-ov-crl.thawte.com
 vupload2.t.facebook.com
