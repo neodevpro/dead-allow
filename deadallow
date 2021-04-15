@@ -1,7 +1,6 @@
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
 151.101.38.49
 206.189.252.21
-360.cn
 a.mini.eastday.com
 api.xk.miui.com
 api.zhuashouji.com
@@ -18,6 +17,7 @@ cdn.staticfile.org/jquery/2.1.4/jquery.min.jsid97.com
 cdn.unpkg.com
 channel.facebook.com
 chat.facebook.com
+cloudservice15.kingsoft-office-service.com
 cloudservice28.kingsoft-office-service.com
 config5.update.baofeng.com
 corp.sts.microsoft.com
@@ -47,6 +47,7 @@ external-lhr9-1.xx.fbcdn.net
 forum.synology.com
 gou.wps.cn
 i8.chinanews.com/2013/home/images/logo.jpg
+ic.ksosoft.com
 imgbbisafreeserviceforuploadingandsharingpictures.
 jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 lbsnavi.cdn.bcebos.com:443
@@ -58,16 +59,15 @@ miuiboot.tracking.miui.com
 mix1065fm.cbslocal.com
 msg.yahoo.com
 nccp.netflix.com
-news.docer.com
-openapi.360.cn
+pc.uf.ksosoft.com
 pi.hole
+pixiu.shangshufang.ksosoft.com
 placeholdit.imgix.net
 play.spotify.edgekey.net
 pricelist.skype.com
 proxy.plex.tv
 proxy02.pop.ord.plex.bz
 puui.qpic.cn/
-rating6.kingsoft-office-service.com
 resolver.gslb.mi-idc.com
 s-static.ak.facebook.com
 s.gateway.messenger.live.com
