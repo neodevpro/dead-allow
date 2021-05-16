@@ -9,9 +9,7 @@ apps.skype.com
 assistant.pandora.xiaomi.com/config
 b.bst.126.net/common/face60.png
 bannera.kingsoft-office-service.com
-bole.shangshufang.ksosoft.com
 book.rdtuijian.com
-captcha.360.cn
 cdn.abc.eamobile.com
 cdn.cloudflare.net
 cdn.jscloudflare.com
@@ -20,7 +18,6 @@ cdn.staticfile.org/jquery/2.1.4/jquery.min.jsid97.com
 cdn.unpkg.com
 channel.facebook.com
 chat.facebook.com
-cloudservice19.kingsoft-office-service.com
 cloudservice28.kingsoft-office-service.com
 config5.update.baofeng.com
 corp.sts.microsoft.com
@@ -62,6 +59,8 @@ miuiboot.tracking.miui.com
 mix1065fm.cbslocal.com
 msg.yahoo.com
 nccp.netflix.com
+newapi.shouji.baofeng.com
+news.docer.com
 pc.uf.ksosoft.com
 pi.hole
 pixiu.shangshufang.ksosoft.com
@@ -71,7 +70,6 @@ pricelist.skype.com
 proxy.plex.tv
 proxy02.pop.ord.plex.bz
 puui.qpic.cn/
-rating6.kingsoft-office-service.com
 resolver.gslb.mi-idc.com
 s-static.ak.facebook.com
 s.gateway.messenger.live.com
@@ -83,7 +81,6 @@ s5.symcb.com
 sa-blacklist.stearns.org
 scontent-lhr3-1.xx.fbcdn.net
 sdkinit.taobao.com/init.htm
-sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 spapps.spotify.edgekey.net
 sta.ganji.com/public/css/ued/vip/vip.cmb.__1468520149__.css
 staging.plex.tv
