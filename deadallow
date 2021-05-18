@@ -1,5 +1,6 @@
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
 151.101.38.49
+2.android.pool.ntp.org
 206.189.252.21
 a.mini.eastday.com
 api.xk.miui.com
@@ -9,6 +10,7 @@ apps.skype.com
 assistant.pandora.xiaomi.com/config
 b.bst.126.net/common/face60.png
 bannera.kingsoft-office-service.com
+bole.shangshufang.ksosoft.com
 book.rdtuijian.com
 cdn.abc.eamobile.com
 cdn.cloudflare.net
@@ -18,7 +20,6 @@ cdn.staticfile.org/jquery/2.1.4/jquery.min.jsid97.com
 cdn.unpkg.com
 channel.facebook.com
 chat.facebook.com
-cloudservice15.kingsoft-office-service.com
 cloudservice28.kingsoft-office-service.com
 config5.update.baofeng.com
 corp.sts.microsoft.com
@@ -78,7 +79,6 @@ s5.symcb.com
 sa-blacklist.stearns.org
 scontent-lhr3-1.xx.fbcdn.net
 sdkinit.taobao.com/init.htm
-sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 spapps.spotify.edgekey.net
 sta.ganji.com/public/css/ued/vip/vip.cmb.__1468520149__.css
 staging.plex.tv
