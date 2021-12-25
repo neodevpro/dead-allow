@@ -11,7 +11,7 @@ readfile.close()
 
 file = open('deadallow', 'a')
 for domain in DOMAINS:
-    status = checker.set_subject({domain}).get_status()
+    status = checker.set_subject("{domain}").get_status()
     if status == "INACTIVE":
         file.writelines(f"{domain}\n")
 file.close()  
