@@ -17,7 +17,7 @@ jobs:
         pip3 install wheel
         pip3 install --user PyFunceble
         rm -rf deadallow
-        wget --no-check-certificate -t 1 -T 10 -O allow https://raw.githubusercontent.com/neodevpro/neodevhost/master/checkallow
+#       wget --no-check-certificate -t 1 -T 10 -O allow https://raw.githubusercontent.com/neodevpro/neodevhost/master/checkallow
         python3 checkallow.py
         rm -rf allow
 
