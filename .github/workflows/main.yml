@@ -19,7 +19,7 @@ jobs:
         rm -rf deadallow
 #       wget --no-check-certificate -t 1 -T 10 -O allow https://raw.githubusercontent.com/neodevpro/neodevhost/master/checkallow
         python3 checkallow.py
-        rm -rf allow
+#       rm -rf allow
 
     - name: Git Auto Commit
       uses: stefanzweifel/git-auto-commit-action@v4.12.0
