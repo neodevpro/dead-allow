@@ -13,6 +13,6 @@ readfile.close()
 
 file = open('deadallow', 'a')
 for domain in DOMAINS:
-    if status = "INACTIVE":
+    if status == "INACTIVE":
         file.writelines(f"{domain}\n")
 file.close()  
