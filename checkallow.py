@@ -1,6 +1,8 @@
-from PyFunceble import test as PyFunceble
+from PyFunceble import DomainAvailabilityChecker
 import urllib3
 urllib3.disable_warnings()
+checker = DomainAvailabilityChecker()
+status = checker.set_subject(domain).get_status()
 
 readfile = open("allow", "r")
 DOMAINS = []
@@ -9,14 +11,8 @@ for line in readfile:
   DOMAINS.append(line_list)
 readfile.close()
 
-
-def print_result(subject, status):
-
-    if status != "ACTIVE":
-        print(f"{domain} is {status}")
-        file.writelines(f"{domain}\n")
-
 file = open('deadallow', 'a')
 for domain in DOMAINS:
-    print_result(domain, PyFunceble (domain))
+    if status = "INACTIVE":
+        file.writelines(f"{domain}\n")
 file.close()  
