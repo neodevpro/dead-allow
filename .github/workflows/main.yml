@@ -5,45 +5,21 @@ on:
    schedule:
      - cron:  "0 0 * * 0"
    workflow_dispatch:
-
-env:
-PYFUNCEBLE_AUTO_CONFIGURATION: "YES"
-GIT_NAME: "${{ secrets.GIT_BOT_NAME }}"
-GIT_EMAIL: "${{ secrets.GIT_BOT_EMAIL }}"
-PYFUNCEBLE_CONFIG_DIR: "${{ github.workspace }}/.pyfunceble"
-GITHUB_TOKEN: "${{ secrets.BOT_REPO_PAT }}"
-
 jobs:
-single:
-    name: Run PyFunceble with a single domain
-    runs-on: "${{ matrix.os }}"
-
-    strategy:
-    fail-fast: false
-    matrix:
-        python_version:
-        - "3.9.1"
-        os:
-        - ubuntu-latest
-
+  build:
+    runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2 
-      name: Clone repository 
-      with: token: "${{ secrets.BOT_REPO_PAT }}"
-
-    - name: Set up Python ${{ matrix.python_version }} 
-      uses: actions/setup-python@v2 
-      with: python-version: ${{ matrix.python_version }} 
-
-
+    - uses: actions/checkout@v2
     - name: Ready to Go
       run: |
-        pip install --pre PyFunceble-dev
+        python3 -m pip install -U pip
+        pip3 install setuptools
+        pip3 install wheel
+        pip3 install --pre PyFunceble-dev
         rm -rf deadallow
         wget --no-check-certificate -t 1 -T 10 -O allow https://raw.githubusercontent.com/neodevpro/neodevhost/master/checkallow
-        python checkallow.py
+        python3 checkallow.py
         rm -rf allow
-
     - name: Git Auto Commit
       uses: stefanzweifel/git-auto-commit-action@v4.12.0
       with:
