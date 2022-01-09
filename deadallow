@@ -32,8 +32,6 @@ ak-media.soundcloud.com
 ak-publisher-assets.spot.im
 all.spot.im
 aloha-proxy-ir.aws.viber.com
-am.coinbase.com
-amazon.hm
 amazon.ye
 analytics.edgesuite.net
 android.intouch.sonymobile.com
@@ -80,6 +78,7 @@ app-conf.xperialounge.sonymobile.com
 app.energized.pro
 app.stumbleupon.com
 app.syndicaster.tv
+appauth.naver.com
 apps.entrance.sonymobile.com
 apps.rakuten.co.jp
 apps.skype.com
@@ -93,7 +92,6 @@ assistant.search.xiaomi.net
 astaroth.notepad-plus-plus.org
 au.pipe.aria.microsoft.com
 au1.p3.documentsawsperf.adobe.com
-au1.p5.documentsawsperf.adobe.com
 audio-fa.spotify.com
 audio-sp-fra2.pscdn.co
 audio-sp.spotify.com
@@ -109,6 +107,7 @@ b6.me
 baconredirects-elb-eyweax7fhr0v-300945382.us-east-1.elb.amazonaws.com
 banners.funimation.com
 banners.spiceworks.com
+bbs.pcbeta.com
 bene.flipboard.com
 beta.api.getpocket.com
 beta.bitfinex.com
@@ -337,7 +336,6 @@ enforcement.spro.xbox.com
 ereg.wip3.adobe.com
 estore.sonymobile.com
 eu1.gigya.com
-eu1.p2.documentsawsperf.adobe.com
 eventgateway.x.sndcdn.com
 ex-notify.coinbase.com
 explore.pinterest.com
@@ -400,6 +398,7 @@ graphite-sscm.sec.miui.com
 graphite-ssms.sec.miui.com
 graphs.coinmarketcap.com
 graphs2.coinmarketcap.com
+group.pcbeta.com
 guce.huffingtonpost.com
 guce.huffingtonpost.com.au
 guides.viber.com
@@ -421,6 +420,7 @@ hrcs.huawei.com
 hw-images.spot.im
 hw.163.com
 hw.me
+i.pcbeta.com
 i.snap.com
 i.x.sndcdn.com
 iclientgw.stable.alipay.net
@@ -466,7 +466,6 @@ jobs.dailycaller.com
 jobs.engadget.com
 jobs.typekit.com
 joint.reg2t.sandai.net
-jp1.p5.documentsawsperf.adobe.com
 jr.static.xiaomi.net
 jx.me
 ke.me
@@ -532,6 +531,7 @@ m.msnbc.com
 m.namecheap.com
 m.openlibrary.org
 m.opinionlab.com
+m.pcbeta.com
 m.phonearena.com
 m.pinterest.com
 m.piwik.org
@@ -555,6 +555,7 @@ m.weather.gov
 m.weeklyad.target.com
 m.wix.com
 m2-a.sndcdn.com
+mac.pcbeta.com
 mail.breitbart.com
 mail.techmeme.com
 mail.xda-developers.com
@@ -610,10 +611,7 @@ mybrowserbar-com.samsung.com.nas
 mypoints.snap.com
 myètherwället.com
 mÿethèrwallét.com
-na1.p2.documentsawsperf.adobe.com
 na1.p3.documentsawsperf.adobe.com
-na1.p5.documentsawsperf.adobe.com
-na2.p2.documentsawsperf.adobe.com
 na2.p3.documentsawsperf.adobe.com
 na4r.services.adobe.com
 na5.content.force.com
@@ -668,7 +666,6 @@ ox-d.dailycaller.com
 ox-i.dailycaller.com
 p-store.rakuten.co.jp
 p3.documentsawsperf.adobe.com
-p5.documentsawsperf.adobe.com
 pacbell.snap.com
 painthegame.playstation.com
 partners.soundcloud.com
@@ -828,9 +825,11 @@ static.icloud.com
 static.mibi.xiaomi.com
 static.skypeassets.com
 static.stumbleupon.com
+static.template.pcbeta.com
 static.union.mi.com
 static1.animeseason.com
 static2.animeseason.com
+station.sony.com
 stats.api.xiaomi.net
 statsandengagement.help.soundcloud.com
 statsfe2.update.microsoft.com.akadns.net
@@ -878,8 +877,10 @@ toreedgefd.dsx.mp.microsoft.com
 traffic.alexa.com
 translate.xposed.info
 transportation.engadget.com
+tv-stage.line.me
 tw03a159.sandai.net
 u.bb
+uc.pcbeta.com
 ui.skype.akadns.net
 ui.skype.com
 uk.me
@@ -926,6 +927,7 @@ watchdog-unified.energized.pro
 weak.tk
 wearables.engadget.com
 web-client.prod.us-west2.twitch.tv
+web.pcbeta.com
 webapps.entrance.sonymobile.com
 webcam.yahoo.com
 webstore.amazon.de
@@ -958,6 +960,7 @@ www-wp.viber.com
 www.1e100.net
 www.9anime.pw
 www.a.espncdn.com
+www.abcnews.com.co
 www.about.medium.com
 www.animeheaven.eu
 www.animeseason.com
@@ -973,6 +976,7 @@ www.blogs.techrepublic.com
 www.bnc.lt
 www.brands.medium.com
 www.bt.co
+www.btc.top
 www.business.opera.com
 www.bwp.techrepublic.com
 www.bytepool.com
@@ -1052,6 +1056,7 @@ www.o2.email.medium.com
 www.package.chocolatey.org
 www.packages.chocolatey.org
 www.part.xbox.com
+www.pcbeta.com
 www.po.st
 www.preferences.truste.com
 www.publishers.medium.com
