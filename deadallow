@@ -36,7 +36,6 @@ amazon.ye
 analytics.edgesuite.net
 android.intouch.sonymobile.com
 animeheaven.eu
-announce.xxx-tracker.com
 announcements.engadget.com
 ap.orgdict.leo.org
 apex.techrepublic.com
@@ -91,7 +90,6 @@ assets.hswstatic.com
 assistant.search.xiaomi.net
 astaroth.notepad-plus-plus.org
 au.pipe.aria.microsoft.com
-au1.p3.documentsawsperf.adobe.com
 audio-fa.spotify.com
 audio-sp-fra2.pscdn.co
 audio-sp.spotify.com
@@ -107,7 +105,6 @@ b6.me
 baconredirects-elb-eyweax7fhr0v-300945382.us-east-1.elb.amazonaws.com
 banners.funimation.com
 banners.spiceworks.com
-bbs.pcbeta.com
 bene.flipboard.com
 beta.api.getpocket.com
 beta.bitfinex.com
@@ -398,7 +395,6 @@ graphite-sscm.sec.miui.com
 graphite-ssms.sec.miui.com
 graphs.coinmarketcap.com
 graphs2.coinmarketcap.com
-group.pcbeta.com
 guce.huffingtonpost.com
 guce.huffingtonpost.com.au
 guides.viber.com
@@ -416,17 +412,19 @@ home.playstation.com
 home.vuukle.com
 homeentertainment.engadget.com
 hosts.herndl.org
+hotstar-sin.gravityrd-services.com
 hrcs.huawei.com
 hw-images.spot.im
 hw.163.com
 hw.me
-i.pcbeta.com
 i.snap.com
 i.x.sndcdn.com
 iclientgw.stable.alipay.net
 ift.rakuten.co.jp
 im.twitch.tv
 image.pandora.xiaomi.com
+images-h2-2.ssl-images-amazon.com
+images-na-2.ssl-images-amazon.com
 images.boomkat.com
 images.samsung.com.ccgslb.com.cn
 images.sonymobile.com
@@ -437,6 +435,7 @@ img.daisuki.net
 img.engadget.com
 img.investorwords.com
 img.rapidvideo.com
+img.wechat.com
 img.x.soundcloud.com
 img.xda-developers.com
 img1.dirtywarez.com
@@ -531,7 +530,6 @@ m.msnbc.com
 m.namecheap.com
 m.openlibrary.org
 m.opinionlab.com
-m.pcbeta.com
 m.phonearena.com
 m.pinterest.com
 m.piwik.org
@@ -555,14 +553,13 @@ m.weather.gov
 m.weeklyad.target.com
 m.wix.com
 m2-a.sndcdn.com
-mac.pcbeta.com
+magpie.daum.net
 mail.breitbart.com
 mail.techmeme.com
 mail.xda-developers.com
 mail03.cloud.huawei.com
 mail05.cloud.huawei.com
 mailing.cryptopia.co.nz
-mal.ly
 mapi.coinmarketcap.com
 market-api.staging.viber.com
 market.admin.staging.viber.com
@@ -611,8 +608,6 @@ mybrowserbar-com.samsung.com.nas
 mypoints.snap.com
 myètherwället.com
 mÿethèrwallét.com
-na1.p3.documentsawsperf.adobe.com
-na2.p3.documentsawsperf.adobe.com
 na4r.services.adobe.com
 na5.content.force.com
 na53.content.force.com
@@ -665,7 +660,6 @@ ovc2-ustokyyneikyfasnm.stackpathdns.com
 ox-d.dailycaller.com
 ox-i.dailycaller.com
 p-store.rakuten.co.jp
-p3.documentsawsperf.adobe.com
 pacbell.snap.com
 painthegame.playstation.com
 partners.soundcloud.com
@@ -703,6 +697,7 @@ preprod.hitbtc.com
 preview-community.xbox.com
 preview4.samsung.com
 pricelist.skype.com
+primewire.ag
 prod-collection.acompli.net
 prod-helpapp.sonymobile.com
 prod-upload-service.getmore.sonymobile.com
@@ -729,6 +724,7 @@ query.yahooapis.com
 r.sendinblue.hitbtc.com
 rank.spot.im
 recommendation.spot.im
+redirect.dealabs.com
 reg-indosat.lotusflare.com
 relay01.hitbtc.com
 release.theplatform.com
@@ -775,7 +771,6 @@ sendinblue.hitbtc.com
 sentry.spot.im
 server-54-230-93-120.fra2.r.cloudfront.net
 services.syndicaster.tv
-sg.a.stat.mi.com
 shareandembed.help.soundcloud.com
 shenghuo.xiaomi.com
 shots.snap.com
@@ -819,17 +814,17 @@ static.ak.facebook.com
 static.akacdn.ru
 static.bbc.com
 static.boomkat.com
+static.game.xiaomi.com
 static.gotinder.com
 static.hybrid.xiaomi.com
 static.icloud.com
 static.mibi.xiaomi.com
+static.networkedblogs.com
 static.skypeassets.com
 static.stumbleupon.com
-static.template.pcbeta.com
 static.union.mi.com
 static1.animeseason.com
 static2.animeseason.com
-station.sony.com
 stats.api.xiaomi.net
 statsandengagement.help.soundcloud.com
 statsfe2.update.microsoft.com.akadns.net
@@ -877,10 +872,8 @@ toreedgefd.dsx.mp.microsoft.com
 traffic.alexa.com
 translate.xposed.info
 transportation.engadget.com
-tv-stage.line.me
 tw03a159.sandai.net
 u.bb
-uc.pcbeta.com
 ui.skype.akadns.net
 ui.skype.com
 uk.me
@@ -907,6 +900,7 @@ video.funimation.com
 video.in.intl.xiaomi.com
 video.intl.xiaomi.com
 vod-download.twitch.tv
+vpn.sonymobile.com
 vr-ov-crl.thawte.com
 vue.playstation.com
 vupload2.t.facebook.com
@@ -927,7 +921,6 @@ watchdog-unified.energized.pro
 weak.tk
 wearables.engadget.com
 web-client.prod.us-west2.twitch.tv
-web.pcbeta.com
 webapps.entrance.sonymobile.com
 webcam.yahoo.com
 webstore.amazon.de
@@ -976,7 +969,6 @@ www.blogs.techrepublic.com
 www.bnc.lt
 www.brands.medium.com
 www.bt.co
-www.btc.top
 www.business.opera.com
 www.bwp.techrepublic.com
 www.bytepool.com
@@ -1056,9 +1048,9 @@ www.o2.email.medium.com
 www.package.chocolatey.org
 www.packages.chocolatey.org
 www.part.xbox.com
-www.pcbeta.com
 www.po.st
 www.preferences.truste.com
+www.primewire.ag
 www.publishers.medium.com
 www.push.chocolatey.org
 www.r10s.jp
