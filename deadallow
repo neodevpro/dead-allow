@@ -32,6 +32,7 @@ ak-media.soundcloud.com
 ak-publisher-assets.spot.im
 all.spot.im
 aloha-proxy-ir.aws.viber.com
+am.coinbase.com
 amazon.ye
 analytics.edgesuite.net
 android.intouch.sonymobile.com
@@ -40,6 +41,7 @@ announcements.engadget.com
 ap.orgdict.leo.org
 apex.techrepublic.com
 api-embedded.soundcloud.com
+api-glb.smoot.apple.com
 api-launcher.spot.im
 api-mobile-creators.soundcloud.com
 api-mobile.x.sndcdn.com
@@ -90,7 +92,6 @@ assets.hswstatic.com
 assistant.search.xiaomi.net
 astaroth.notepad-plus-plus.org
 au.pipe.aria.microsoft.com
-au1.p3.documentsawsperf.adobe.com
 audio-fa.spotify.com
 audio-sp-fra2.pscdn.co
 audio-sp.spotify.com
@@ -348,6 +349,7 @@ external-lhr5-1.xx.fbcdn.net
 external-lhr6-1.xx.fbcdn.net
 external-lhr7-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
+eztv.io
 f.youku.com
 fakecell.sys.miui.com
 fb.viber.com
@@ -437,6 +439,7 @@ img.daisuki.net
 img.engadget.com
 img.investorwords.com
 img.rapidvideo.com
+img.wechat.com
 img.x.soundcloud.com
 img.xda-developers.com
 img1.dirtywarez.com
@@ -488,6 +491,7 @@ live.part.xbox.com
 liveupdate.mac.sandai.net
 log.entrance.sonymobile.com
 login.snapchat.com
+logs.heroku.com
 lt.cryptopia.co.nz
 ltc.cryptopia.co.nz
 lxcdn.app.chat.xiaomi.net
@@ -609,8 +613,6 @@ mybrowserbar-com.samsung.com.nas
 mypoints.snap.com
 myètherwället.com
 mÿethèrwallét.com
-na1.p3.documentsawsperf.adobe.com
-na2.p3.documentsawsperf.adobe.com
 na4r.services.adobe.com
 na5.content.force.com
 na53.content.force.com
@@ -663,7 +665,6 @@ ovc2-ustokyyneikyfasnm.stackpathdns.com
 ox-d.dailycaller.com
 ox-i.dailycaller.com
 p-store.rakuten.co.jp
-p3.documentsawsperf.adobe.com
 pacbell.snap.com
 painthegame.playstation.com
 partners.soundcloud.com
@@ -720,6 +721,7 @@ proxy.plex.tv
 proxy02.pop.ord.plex.bz
 ps.software.eu.playstation.com
 psmedia.playstation.com
+publish.adobe.com
 pubster.twitch.tv
 qm.qq.co
 qph.ec.quoracdn.net
@@ -818,7 +820,6 @@ static.ak.facebook.com
 static.akacdn.ru
 static.bbc.com
 static.boomkat.com
-static.game.xiaomi.com
 static.gotinder.com
 static.hybrid.xiaomi.com
 static.icloud.com
@@ -874,6 +875,7 @@ titurl.com
 topics.breitbart.com
 topics.spot.im
 toreedgefd.dsx.mp.microsoft.com
+track.bpost.be
 traffic.alexa.com
 translate.xposed.info
 transportation.engadget.com
@@ -1009,7 +1011,7 @@ www.en.wikipedia.com
 www.enews.techrepublic.com
 www.fr.wikipedia.com
 www.ftp.chocolatey.org
-www.glyph.medium.com
+www.geoserver.org
 www.go.microsoft.com
 www.gog-statics.com
 www.gogoanime.io
