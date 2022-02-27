@@ -32,11 +32,13 @@ ak-media.soundcloud.com
 ak-publisher-assets.spot.im
 all.spot.im
 aloha-proxy-ir.aws.viber.com
+amazon.hm
 amazon.politie
 amazon.ye
 analytics.edgesuite.net
 android.intouch.sonymobile.com
 animeheaven.eu
+announce.xxx-tracker.com
 announcements.engadget.com
 ap.orgdict.leo.org
 apex.techrepublic.com
@@ -392,6 +394,7 @@ globalping.gotinder.com
 gmodulobot.xyz
 go.infoblox.com
 go.snapchat.com
+google.co.pn
 gps.engadget.com
 gr.me
 graphite-sscm.sec.miui.com
@@ -451,6 +454,7 @@ in.mce.kefu.mi.com
 in.mcp.kefu.mi.com
 in.sbdp.sonymobile.com
 inbrowserediting.adobe.com
+innovationresearch.huawei.com
 insider.sonymobile.com
 instalog-prod.sc-prod.net
 internal.akadns.net
@@ -486,6 +490,7 @@ link.xperialounge.sonymobile.com
 listenanddiscover.help.soundcloud.com
 live.engadget.com
 live.part.xbox.com
+livecycle-tst.qualcomm.com
 liveupdate.mac.sandai.net
 log.entrance.sonymobile.com
 login.snapchat.com
@@ -567,6 +572,7 @@ mapi.coinmarketcap.com
 market-api.staging.viber.com
 market.admin.staging.viber.com
 market.api.staging.viber.com
+marx.libcom.org
 mc-siderail.spot.im
 media-1.breitbart.com
 media-cdn.twitch.tv
@@ -728,6 +734,7 @@ query.yahooapis.com
 r.sendinblue.hitbtc.com
 rank.spot.im
 recommendation.spot.im
+redbullmediahouse.origin.typekit.com
 redirect.dealabs.com
 reg-indosat.lotusflare.com
 relay01.hitbtc.com
@@ -790,6 +797,7 @@ snsapi.relation.xiaomi.net
 social.mylife.com
 socks-indosat-aws-01.lotusflare.com
 socks-indosat-aws-02.lotusflare.com
+software.naver.com
 sonyselect-api.sonymobile.com
 soundcheck.soundcloud.com
 sp-campaign.line.me
@@ -870,6 +878,7 @@ tier2.ios.skypeassets.com
 tiles.services.mozilla.com
 tip.daum.net
 titurl.com
+toolbar.naver.com
 topics.breitbart.com
 topics.spot.im
 toreedgefd.dsx.mp.microsoft.com
@@ -884,6 +893,7 @@ uk.me
 umeeting.huawei.com
 und.weg.ist.sie.com
 uongjowo.gravatar.com
+update.micloud.xiaomi.net
 upgrade.scdn.com
 upload.rapidvideo.com
 upload.vimeo.com
@@ -904,6 +914,7 @@ video.funimation.com
 video.in.intl.xiaomi.com
 video.intl.xiaomi.com
 vod-download.twitch.tv
+vpn.sonymobile.com
 vr-ov-crl.thawte.com
 vue.playstation.com
 vupload2.t.facebook.com
@@ -926,7 +937,6 @@ wearables.engadget.com
 web-client.prod.us-west2.twitch.tv
 webapps.entrance.sonymobile.com
 webcam.yahoo.com
-weblb-wg.dual-gslb.spotify.com
 webstore.amazon.de
 websub-test-proxy.twitch.tv
 wedding.rakuten.co.jp
@@ -1038,7 +1048,6 @@ www.m.apkpure.com
 www.m.techrepublic.com
 www.ma.techrepublic.com
 www.members.medium.com
-www.mewkid.net
 www.minutemediacdn.com
 www.myfonts.net
 www.netdna-cdn.com
